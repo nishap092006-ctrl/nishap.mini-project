@@ -1,1 +1,0 @@
-# nishap.mini-project
